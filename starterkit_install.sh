@@ -13,6 +13,7 @@ sudo apt install -y \
 	net-tools \
 	nmap \
 	git \
+	git-lfs \
 	gnupg2 \
 	curl \
 	ca-certificates \
